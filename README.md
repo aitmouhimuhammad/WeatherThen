@@ -2,8 +2,10 @@
 
 WeatherThen une application météorologique interactive qui permet aux utilisateurs de consulter facilement les prévisions météorologiques pour leur région. L'application offre une interface conviviale et propose des fonctionnalités telles que l'affichage des prévisions actuelles, les prévisions à court terme et la personnalisation des unités de température.
 
-![Screen Shot](doc/screenshot.png)
 
+Vous pouvez consulter une démo en ligne à l'aide de ce lien: [démo en ligne](https://weatherthen.netlify.app/)
+
+![Screen Shot](doc/screenshot.png)
 
 ## Documentation
 
@@ -24,6 +26,11 @@ WeatherThen une application météorologique interactive qui permet aux utilisat
 1. Démarrez l'application en utilisant la commande suivante :`npm start`
 2. Accédez à l'application dans votre navigateur en visitant l'URL suivante : `http://localhost:3000`
 
+*Ou*
+
+Vous pouvez consulter une démo en ligne à l'aide de ce lien: [démo en ligne](https://weatherthen.netlify.app/)
+
+
 ## Contribuer
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à l'amélioration de WeatherThen, veuillez suivre les étapes suivantes :
@@ -38,9 +45,8 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à l'améli
 
 - Muhammad AIT MOUHI
 - Oussama ELKIHEL
-- Elhoceine MEZIANIE
+- EL-houcine Meziani
 
 ## Licence
 
 Ce projet est sous licence [MIT](LICENSE).
-
