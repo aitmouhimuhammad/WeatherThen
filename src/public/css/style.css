@@ -8,7 +8,6 @@
 }
 
 body {
-  background-color: black;
   background-image: url("../img/bg.jpg");
   background-size: cover;
 }
@@ -22,7 +21,6 @@ body {
 
 #todays-weather-temperature {
   font-size: 48px;
-  font-family: "Inter";
   font-weight: bold;
 }
 
@@ -39,18 +37,16 @@ body {
 
 #location {
   font-size: 30px;
-  /* display: block; */
 }
 
 #time {
   font-size: 50px;
-  /* display: inline; */
   text-align: center;
   margin-left: 10px;
 }
 
 #date-location {
-  /* display: inline; */
+  display: inline;
 }
 
 #time-location {
@@ -65,7 +61,6 @@ body {
   height: 120px;
   fill: white;
   stroke: white;
-  /* filter: invert(); */
 }
 
 .background-container {
@@ -131,7 +126,7 @@ body {
 }
 
 #change-location-btn {
-  background-color: black;
+  background: black;
   border-radius: 32px;
   border-style: hidden;
   padding: 10px;
@@ -149,12 +144,7 @@ body {
 .modal {
   color: black;
   position: absolute;
-  /* width: 400px; */
   padding: 10px;
-  /* height: 200px; */
-  /* transform: translate(-50%, 0%); */
-  /* left: 50%; */
-  /* top: 50%; */
   background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -166,15 +156,15 @@ body {
 }
 
 ul {
-    color: black;
-    z-index: 10000;
+  color: black;
+  z-index: 10000;
 }
 
 .ui-front {
-    z-index: 9999999 !important;
-    color: black;
+  z-index: 9999999 !important;
+  color: black;
 }
 
 .ui-menu-item * {
-    color: black;
+  color: black;
 }
