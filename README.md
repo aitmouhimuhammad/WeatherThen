@@ -2,6 +2,9 @@
 
 WeatherThen une application météorologique interactive qui permet aux utilisateurs de consulter facilement les prévisions météorologiques pour leur région. L'application offre une interface conviviale et propose des fonctionnalités telles que l'affichage des prévisions actuelles, les prévisions à court terme et la personnalisation des unités de température.
 
+![Screen Shot](doc/screenshot.png)
+
+
 ## Documentation
 
 - [Rapport de projet](doc/Rapport.pdf) - Consultez le rapport de projet détaillé pour en savoir plus sur les objectifs, les réalisations et les perspectives d'avenir du projet WeatherThen.
